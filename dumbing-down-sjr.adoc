@@ -1,0 +1,46 @@
+= Dumbing Down Brief
+:o-title: Dumbing Down
+:o-author: Sarah J Richards
+:o-source: http://www.sarahjrichards.com/blog/dumbing-down
+:o-pub-date: 04/28/2014
+:keywords: findable, useable, accessible, trust
+
+{o-source}[*{o-title}*]
+
+{o-author}
+
+{o-pub-date}
+
+== Notes
+
+{o-author} categorizes dumbing down arguements into 3 categories:
+
+* I can’t find it
+* I’m not used to it
+* I’m terribly clever (and so are all my friends)
+
+Points to counteract the dumbing down arguement:
+
+* makes it easy to read (good structure, short sentences, plain language)
+* opens up the information
+* trys not to exclude people based on their education, cognitive function or reading ability
+* makes it accessible
+
+UK stats:
+
+* 1.5 million people who have a learning disability
+* 7 million (conservative estimation) people have dyslexia 
+* 2 million people with a visual impairment
+
+// Is there a source for these stats?
+
+Other usability considerations:
+
+* poor internet connection
+* don’t want to read and re-read something just to understand it
+
+== Quotes
+
+[quote, {o-author}, {o-title}]
+What’s more important to your users: learning how to read your information or understanding it?
+
