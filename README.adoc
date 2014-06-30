@@ -1,3 +1,33 @@
 = Useful Content
+Sarah White
+:asciidoctor-qr: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 Curated resources and references about content. Categories include: story arcs, bias, chunking, etc.
+
+== Adding a Resource for Review
+
+. Click on the Issues symbol on the right side of the repository tree (bang mark (+!+) encolsed in a circle)
+. Click the *New issue* button
+. Title the issue with the resource's name
+. Include the location of the resource and any other information you think is pertinent in the body of the issue (such as why you think it might be relevant).
+. Add the *Review* label to the issue
+. Assign the issue to a reviewer is applicable
+
+== Adding a Brief
+
+. Create a new file (click the plus sign next to +useful-content+)
+. Name the file using the reference's title, followed by the lead author's initials, and then the file extension +.adoc+.
+.. Seperate the words with hyphens
+. Title the brief using the title of the reference followed by the word *Brief*
+. At a minimum, include the following document attributes
++
+----
+:o-title: Complete title and subtitle of resource
+:o-author: Full name of lead author of the resource
+:o-source: Location of resource (typically a URL)
+:o-pub-date: Date resource was published
+----
+. Add key points, observations, quotes, etc., to the body of the document
+.. Mark up the content using Asciidoctor syntax (see the {asciidoctor-qr}[Quick Reference Guide] for help)
+. When finished, add a commit message
+. Click the *Commit changes* button
